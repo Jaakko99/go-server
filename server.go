@@ -1,3 +1,8 @@
+// To run go server, use the following command:
+// go run server.go 
+// and build the server using the following command:
+// go build server.go
+
 package main
 
 import (
